@@ -1,4 +1,4 @@
-# Football Match Prediction Model ⚽
+# Football Match Prediction Model 
 
 A personal learning project built in **Python** using **Google Colab** to predict international football match outcomes of FIFA WORLD CUP ( ROUND OF 16 TO FINALS) using historical match data and statistical modelling.
 
